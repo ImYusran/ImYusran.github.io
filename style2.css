@@ -1,0 +1,38 @@
+body{
+    padding: 10vh;
+    min-height: 80vh;
+    background: url(assests/img/B.jpg) no-repeat center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.template{
+    background-color: #122f5798;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5vh;
+}
+.card{
+    text-justify: auto;
+    color: white;
+}
+
+.profil {
+    text-justify: auto;
+    color: white;
+    font-size: 20px;
+    background: linear-gradient(white);
+}
+
+.foto img{
+    display: inline-block;
+    padding: 10px;
+    margin: auto;
+    background-size: 200%;
+    display: block;
+    width: 400px;
+    height: 300px;
+    border-radius: 50%;
+}
